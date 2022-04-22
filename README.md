@@ -1,2 +1,3 @@
 # Meteor-toDo
-first steps
+first steps.
+Deploy em: listadetarefascbs.meteorapp.com
